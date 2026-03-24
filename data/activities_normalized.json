@@ -13284,5 +13284,18 @@
     "start_date_local": "2026-03-22T11:22:59Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-03-24",
+    "distance": 40742.9,
+    "elevation_gain": 323.0,
+    "id": "17843227222",
+    "moving_time": 4860.0,
+    "name": "Zwift - 2x30 sweet spot",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-24T17:22:46Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
