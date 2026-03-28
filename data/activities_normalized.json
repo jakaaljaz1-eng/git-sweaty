@@ -13310,5 +13310,18 @@
     "start_date_local": "2026-03-25T18:03:30Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 45203.7,
+    "elevation_gain": 247.0,
+    "id": "17879461549",
+    "moving_time": 5142.0,
+    "name": "Zwift - 1x60 sweet spot",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-27T17:33:40Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
