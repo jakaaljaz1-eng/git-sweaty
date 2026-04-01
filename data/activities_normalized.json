@@ -13349,5 +13349,18 @@
     "start_date_local": "2026-03-29T12:10:47Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 21785.4,
+    "elevation_gain": 240.0,
+    "id": "17939654195",
+    "moving_time": 2800.0,
+    "name": "Zwift - Over, Under and Beyond",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-01T17:34:14Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
