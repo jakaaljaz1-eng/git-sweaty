@@ -13453,5 +13453,18 @@
     "start_date_local": "2026-04-12T07:05:50Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 25342.2,
+    "elevation_gain": 191.0,
+    "id": "18106995485",
+    "moving_time": 2813.0,
+    "name": "Zwift - Season Base #1 (1)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-14T17:57:55Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
