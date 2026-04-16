@@ -13466,5 +13466,18 @@
     "start_date_local": "2026-04-14T17:57:55Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 32881.0,
+    "elevation_gain": 133.0,
+    "id": "18133354434",
+    "moving_time": 3556.0,
+    "name": "Zwift - Over under 3x12 2mx200 1mx235",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-16T16:43:08Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
