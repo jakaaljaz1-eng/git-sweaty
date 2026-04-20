@@ -7272,6 +7272,13 @@
       "subtype": "WeightTraining",
       "type": "WeightTraining",
       "year": 2026
+    },
+    {
+      "date": "2026-04-19",
+      "hour": 16,
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16480,6 +16487,15 @@
           "distance": 32881.0,
           "elevation_gain": 133.0,
           "moving_time": 3556.0
+        },
+        "2026-04-19": {
+          "activity_ids": [
+            "18174572010"
+          ],
+          "count": 1,
+          "distance": 50125.7,
+          "elevation_gain": 204.0,
+          "moving_time": 5713.0
         }
       },
       "WeightTraining": {
@@ -16587,7 +16603,7 @@
       }
     }
   },
-  "generated_at": "2026-04-19T15:29:12.454251+00:00",
+  "generated_at": "2026-04-20T16:01:59.512577+00:00",
   "other_bucket": "OtherSports",
   "repo": "jakaaljaz1-eng/git-sweaty",
   "source": "strava",
