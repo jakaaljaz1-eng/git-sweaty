@@ -13687,5 +13687,18 @@
     "start_date_local": "2026-05-09T09:14:45Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 25148.4,
+    "elevation_gain": 139.0,
+    "id": "18480602482",
+    "moving_time": 2713.0,
+    "name": "Zwift - 1x30 FTP Intervals",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-12T19:11:00Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
