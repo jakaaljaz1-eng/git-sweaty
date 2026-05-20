@@ -13778,5 +13778,18 @@
     "start_date_local": "2026-05-17T19:10:40Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 14983.7,
+    "elevation_gain": 150.0,
+    "id": "18571175925",
+    "moving_time": 1912.0,
+    "name": "Zwift - 4x4 VO2MAX",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-19T19:01:40Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
