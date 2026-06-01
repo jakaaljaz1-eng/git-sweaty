@@ -7447,6 +7447,20 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-05-31",
+      "hour": 19,
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-01",
+      "hour": 19,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16322,6 +16336,17 @@
       }
     },
     "2026": {
+      "GravelRide": {
+        "2026-05-31": {
+          "activity_ids": [
+            "18734421636"
+          ],
+          "count": 1,
+          "distance": 4776.2,
+          "elevation_gain": 41.0,
+          "moving_time": 1195.0
+        }
+      },
       "Hike": {
         "2026-01-04": {
           "activity_ids": [
@@ -16524,6 +16549,15 @@
           "distance": 6544.8,
           "elevation_gain": 70.0,
           "moving_time": 2436.0
+        },
+        "2026-06-01": {
+          "activity_ids": [
+            "18744973809"
+          ],
+          "count": 1,
+          "distance": 5335.7,
+          "elevation_gain": 67.0,
+          "moving_time": 1872.0
         }
       },
       "TrailRun": {
@@ -16987,7 +17021,7 @@
       }
     }
   },
-  "generated_at": "2026-05-31T15:59:25.527040+00:00",
+  "generated_at": "2026-06-01T19:51:15.145095+00:00",
   "other_bucket": "OtherSports",
   "repo": "jakaaljaz1-eng/git-sweaty",
   "source": "strava",
