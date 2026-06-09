@@ -13889,10 +13889,23 @@
     "elevation_gain": 2292.0,
     "id": "18837421527",
     "moving_time": 14652.0,
-    "name": "Morning Ride",
+    "name": "Pondelk",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-06-08T09:27:23Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 60742.3,
+    "elevation_gain": 1947.0,
+    "id": "18849836901",
+    "moving_time": 13056.0,
+    "name": "Sella Ronda",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-09T09:35:50Z",
     "type": "Ride",
     "year": 2026
   }
