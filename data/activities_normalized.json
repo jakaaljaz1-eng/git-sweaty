@@ -14181,5 +14181,18 @@
     "start_date_local": "2026-07-13T19:23:07Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-14",
+    "distance": 18783.6,
+    "elevation_gain": 82.0,
+    "id": "19312885068",
+    "moving_time": 2167.0,
+    "name": "Zwift - VO2 Max 3x3",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-14T19:29:15Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
