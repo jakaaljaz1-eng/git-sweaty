@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T16:13:07.028658+00:00",
+  "generated_at": "2026-07-23T16:18:28.555053+00:00",
   "years": {
     "2021": {
       "AlpineSki": {
@@ -9266,6 +9266,15 @@
           "distance": 7032.7,
           "elevation_gain": 7.0,
           "moving_time": 2458.0
+        },
+        "2026-07-22": {
+          "activity_ids": [
+            "19420253287"
+          ],
+          "count": 1,
+          "distance": 6606.8,
+          "elevation_gain": 9.0,
+          "moving_time": 2291.0
         }
       },
       "TrailRun": {
