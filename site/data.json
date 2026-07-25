@@ -7657,6 +7657,27 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-07-23",
+      "hour": 19,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-24",
+      "hour": 17,
+      "subtype": "Hike",
+      "type": "Hike",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-25",
+      "hour": 9,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16579,6 +16600,15 @@
           "distance": 2231.1,
           "elevation_gain": 208.0,
           "moving_time": 2828.0
+        },
+        "2026-07-24": {
+          "activity_ids": [
+            "19448220075"
+          ],
+          "count": 1,
+          "distance": 3153.7,
+          "elevation_gain": 305.0,
+          "moving_time": 3912.0
         }
       },
       "Ride": {
@@ -16761,6 +16791,15 @@
           "distance": 61811.2,
           "elevation_gain": 435.0,
           "moving_time": 7534.0
+        },
+        "2026-07-25": {
+          "activity_ids": [
+            "19456114093"
+          ],
+          "count": 1,
+          "distance": 47318.1,
+          "elevation_gain": 698.0,
+          "moving_time": 6610.0
         }
       },
       "Run": {
@@ -16934,6 +16973,15 @@
           "distance": 6606.8,
           "elevation_gain": 9.0,
           "moving_time": 2291.0
+        },
+        "2026-07-23": {
+          "activity_ids": [
+            "19435378418"
+          ],
+          "count": 1,
+          "distance": 7300.2,
+          "elevation_gain": 1.0,
+          "moving_time": 2470.0
         }
       },
       "TrailRun": {
@@ -17469,7 +17517,7 @@
       }
     }
   },
-  "generated_at": "2026-07-23T16:18:28.572481+00:00",
+  "generated_at": "2026-07-25T15:55:13.467548+00:00",
   "other_bucket": "OtherSports",
   "repo": "jakaaljaz1-eng/git-sweaty",
   "source": "strava",
