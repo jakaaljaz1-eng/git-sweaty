@@ -14324,5 +14324,31 @@
     "start_date_local": "2026-07-31T20:04:23Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 7005.9,
+    "elevation_gain": 4.0,
+    "id": "19559512679",
+    "moving_time": 2302.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-01T19:07:25Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-02",
+    "distance": 61292.1,
+    "elevation_gain": 1132.0,
+    "id": "19567480830",
+    "moving_time": 9599.0,
+    "name": "Pogi",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-02T08:08:39Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
