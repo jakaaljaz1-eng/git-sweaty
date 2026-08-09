@@ -7748,6 +7748,13 @@
       "subtype": "WeightTraining",
       "type": "WeightTraining",
       "year": 2026
+    },
+    {
+      "date": "2026-08-09",
+      "hour": 6,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16897,6 +16904,15 @@
           "distance": 61292.1,
           "elevation_gain": 1132.0,
           "moving_time": 9599.0
+        },
+        "2026-08-09": {
+          "activity_ids": [
+            "19663997498"
+          ],
+          "count": 1,
+          "distance": 91810.3,
+          "elevation_gain": 839.0,
+          "moving_time": 11496.0
         }
       },
       "Run": {
@@ -17677,7 +17693,7 @@
       }
     }
   },
-  "generated_at": "2026-08-08T15:18:43.441313+00:00",
+  "generated_at": "2026-08-09T15:20:12.988891+00:00",
   "other_bucket": "OtherSports",
   "repo": "jakaaljaz1-eng/git-sweaty",
   "source": "strava",
