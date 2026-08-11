@@ -14402,5 +14402,18 @@
     "start_date_local": "2026-08-09T06:14:13Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-11",
+    "distance": 18806.7,
+    "elevation_gain": 206.0,
+    "id": "19697566442",
+    "moving_time": 2469.0,
+    "name": "Zwift - VO2 Max - 4x3 Ramps",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-11T16:48:11Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
