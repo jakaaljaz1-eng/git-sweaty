@@ -14454,5 +14454,18 @@
     "start_date_local": "2026-08-14T16:35:02Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 3434.1,
+    "elevation_gain": 319.0,
+    "id": "19748539318",
+    "moving_time": 3997.0,
+    "name": "Morning Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-15T09:20:25Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
