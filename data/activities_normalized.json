@@ -14480,5 +14480,18 @@
     "start_date_local": "2026-08-18T17:37:09Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-20",
+    "distance": 30256.1,
+    "elevation_gain": 0.0,
+    "id": "19825444438",
+    "moving_time": 3600.0,
+    "name": "Haeckel",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-20T17:11:51Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
