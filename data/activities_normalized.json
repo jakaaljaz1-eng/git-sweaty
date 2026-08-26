@@ -14519,5 +14519,18 @@
     "start_date_local": "2026-08-23T12:49:11Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 29199.2,
+    "elevation_gain": 0.0,
+    "id": "19895190180",
+    "moving_time": 3600.0,
+    "name": "Mount Alyeska",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-25T17:16:04Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
