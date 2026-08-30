@@ -14558,5 +14558,31 @@
     "start_date_local": "2026-08-29T18:13:49Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-30",
+    "distance": 2919.3,
+    "elevation_gain": 276.0,
+    "id": "19960288348",
+    "moving_time": 3520.0,
+    "name": "Morning Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-30T10:52:57Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-30",
+    "distance": 24658.2,
+    "elevation_gain": 0.0,
+    "id": "19961515425",
+    "moving_time": 3529.0,
+    "name": "Eichorn +2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-30T12:23:57Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
