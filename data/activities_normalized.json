@@ -14597,5 +14597,18 @@
     "start_date_local": "2026-09-01T17:21:21Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-03",
+    "distance": 30119.5,
+    "elevation_gain": 0.0,
+    "id": "20021815511",
+    "moving_time": 3600.0,
+    "name": "Isabel",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-03T17:09:30Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
