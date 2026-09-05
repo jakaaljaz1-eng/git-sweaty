@@ -7867,6 +7867,20 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-09-05",
+      "hour": 9,
+      "subtype": "Hike",
+      "type": "Hike",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-05",
+      "hour": 11,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16825,6 +16839,15 @@
           "distance": 2919.3,
           "elevation_gain": 276.0,
           "moving_time": 3520.0
+        },
+        "2026-09-05": {
+          "activity_ids": [
+            "20043234729"
+          ],
+          "count": 1,
+          "distance": 3347.9,
+          "elevation_gain": 310.0,
+          "moving_time": 3918.0
         }
       },
       "Ride": {
@@ -17880,6 +17903,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2252.0
+        },
+        "2026-09-05": {
+          "activity_ids": [
+            "20044024561"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1217.0
         }
       },
       "Workout": {
@@ -17949,7 +17981,7 @@
       }
     }
   },
-  "generated_at": "2026-09-04T17:53:24.951004+00:00",
+  "generated_at": "2026-09-05T16:59:44.187048+00:00",
   "other_bucket": "OtherSports",
   "repo": "jakaaljaz1-eng/git-sweaty",
   "source": "strava",
