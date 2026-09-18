@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T18:40:21.532311+00:00",
+  "generated_at": "2026-09-18T17:57:10.337459+00:00",
   "years": {
     "2021": {
       "AlpineSki": {
@@ -8891,6 +8891,17 @@
           "distance": 13145.3,
           "elevation_gain": 148.0,
           "moving_time": 2975.0
+        }
+      },
+      "HighIntensityIntervalTraining": {
+        "2026-09-18": {
+          "activity_ids": [
+            "20228118921"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1211.0
         }
       },
       "Hike": {

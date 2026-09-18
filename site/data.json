@@ -7909,6 +7909,13 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-09-18",
+      "hour": 16,
+      "subtype": "HighIntensityIntervalTraining",
+      "type": "HighIntensityIntervalTraining",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16804,6 +16811,17 @@
           "moving_time": 2975.0
         }
       },
+      "HighIntensityIntervalTraining": {
+        "2026-09-18": {
+          "activity_ids": [
+            "20228118921"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1211.0
+        }
+      },
       "Hike": {
         "2026-01-04": {
           "activity_ids": [
@@ -18045,7 +18063,7 @@
       }
     }
   },
-  "generated_at": "2026-09-17T18:40:21.546753+00:00",
+  "generated_at": "2026-09-18T17:57:10.350597+00:00",
   "other_bucket": "OtherSports",
   "repo": "jakaaljaz1-eng/git-sweaty",
   "source": "strava",
