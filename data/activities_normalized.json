@@ -14714,5 +14714,18 @@
     "start_date_local": "2026-09-19T15:37:25Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-21",
+    "distance": 18643.7,
+    "elevation_gain": 165.0,
+    "id": "20265012006",
+    "moving_time": 2848.0,
+    "name": "Lunch Mountain Bike Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-09-21T11:18:24Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
