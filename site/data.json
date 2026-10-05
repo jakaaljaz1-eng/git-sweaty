@@ -7930,6 +7930,13 @@
       "subtype": "GravelRide",
       "type": "GravelRide",
       "year": 2026
+    },
+    {
+      "date": "2026-10-05",
+      "hour": 18,
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -17799,6 +17806,15 @@
           "distance": 31637.2,
           "elevation_gain": 48.0,
           "moving_time": 3317.0
+        },
+        "2026-10-05": {
+          "activity_ids": [
+            "20462519415"
+          ],
+          "count": 1,
+          "distance": 12751.6,
+          "elevation_gain": 144.0,
+          "moving_time": 1500.0
         }
       },
       "WeightTraining": {
@@ -18095,7 +18111,7 @@
       }
     }
   },
-  "generated_at": "2026-10-04T18:26:44.727314+00:00",
+  "generated_at": "2026-10-05T21:43:08.873920+00:00",
   "other_bucket": "OtherSports",
   "repo": "jakaaljaz1-eng/git-sweaty",
   "source": "strava",
