@@ -14740,5 +14740,18 @@
     "start_date_local": "2026-10-05T18:19:47Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-07",
+    "distance": 15338.4,
+    "elevation_gain": 394.0,
+    "id": "20490910839",
+    "moving_time": 2411.0,
+    "name": "Zwift - Climb Portal: Norton Summit at 100% Elevation in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-07T17:37:20Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
