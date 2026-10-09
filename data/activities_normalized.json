@@ -14766,5 +14766,31 @@
     "start_date_local": "2026-10-08T16:49:19Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-09",
+    "distance": 22663.1,
+    "elevation_gain": 181.0,
+    "id": "20517638789",
+    "moving_time": 2562.0,
+    "name": "Zwift - Sand And Sequoias in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-09T18:13:38Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-09",
+    "distance": 10888.2,
+    "elevation_gain": 37.0,
+    "id": "20517908821",
+    "moving_time": 1272.0,
+    "name": "Zwift - FTP Ramp Test",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-09T18:57:26Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
