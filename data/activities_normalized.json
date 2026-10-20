@@ -14844,5 +14844,18 @@
     "start_date_local": "2026-10-18T09:25:10Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-20",
+    "distance": 27334.9,
+    "elevation_gain": 194.0,
+    "id": "20664822194",
+    "moving_time": 3139.0,
+    "name": "Zwift - F1 W02 A FTP Builder",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-20T19:28:15Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
