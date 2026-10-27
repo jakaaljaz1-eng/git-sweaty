@@ -14896,5 +14896,18 @@
     "start_date_local": "2026-10-25T16:52:55Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-27",
+    "distance": 20397.1,
+    "elevation_gain": 464.0,
+    "id": "20752710296",
+    "moving_time": 3188.0,
+    "name": "Zwift - F1 W03 Sweet Spot 3x10min @90%",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-27T16:08:09Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
