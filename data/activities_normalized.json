@@ -14922,5 +14922,18 @@
     "start_date_local": "2026-10-28T16:39:03Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-30",
+    "distance": 23739.3,
+    "elevation_gain": 86.0,
+    "id": "20788908920",
+    "moving_time": 2741.0,
+    "name": "Zwift - F1 W03 VO2 5x3min @110%",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-30T10:37:29Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
