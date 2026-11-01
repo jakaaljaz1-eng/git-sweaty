@@ -14948,5 +14948,18 @@
     "start_date_local": "2026-10-31T12:19:00Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 35732.4,
+    "elevation_gain": 275.0,
+    "id": "20820959864",
+    "moving_time": 4218.0,
+    "name": "Zwift - F1 W03 Z2 Endurance 100min",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-01T17:43:35Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
