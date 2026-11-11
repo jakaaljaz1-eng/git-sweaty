@@ -14987,5 +14987,18 @@
     "start_date_local": "2026-11-09T17:41:35Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-11",
+    "distance": 24071.3,
+    "elevation_gain": 181.0,
+    "id": "20950257707",
+    "moving_time": 2717.0,
+    "name": "Zwift - F2 W05 VO2 4x4min @108%",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-11T18:27:35Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
