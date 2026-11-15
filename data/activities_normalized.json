@@ -15013,5 +15013,18 @@
     "start_date_local": "2026-11-14T16:17:28Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-15",
+    "distance": 56857.7,
+    "elevation_gain": 323.0,
+    "id": "20999938325",
+    "moving_time": 6323.0,
+    "name": "Zwift - F2 W05 Z2 Endurance 105min",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-15T15:45:43Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
