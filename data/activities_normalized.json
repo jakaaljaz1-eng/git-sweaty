@@ -15026,5 +15026,18 @@
     "start_date_local": "2026-11-15T15:45:43Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-17",
+    "distance": 33886.8,
+    "elevation_gain": 51.0,
+    "id": "21022593129",
+    "moving_time": 3450.0,
+    "name": "Zwift - F2 W06 Sweet Spot 2x18min @91%",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-17T15:32:27Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
