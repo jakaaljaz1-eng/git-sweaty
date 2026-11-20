@@ -15039,5 +15039,18 @@
     "start_date_local": "2026-11-17T15:32:27Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-20",
+    "distance": 24791.0,
+    "elevation_gain": 237.0,
+    "id": "21061390071",
+    "moving_time": 2691.0,
+    "name": "Zwift - Race: Stage 2 - ZRacing - Watopia Islands - The Classic (C)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-20T18:12:17Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
