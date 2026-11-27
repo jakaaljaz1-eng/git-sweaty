@@ -15104,5 +15104,18 @@
     "start_date_local": "2026-11-25T18:31:14Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-27",
+    "distance": 33579.3,
+    "elevation_gain": 53.0,
+    "id": "21145988116",
+    "moving_time": 3628.0,
+    "name": "Zwift - D Opcijsko Z2 60min (4. dan)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-27T19:05:05Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
